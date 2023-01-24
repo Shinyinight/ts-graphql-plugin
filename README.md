@@ -603,6 +603,4 @@ And the following editor have TypeScript plugin with LanguageService so they're 
 
 See [contribution guide](CONTRIBUTING.md).
 
-## License
 
-This software is released under the MIT License, see LICENSE.txt.
